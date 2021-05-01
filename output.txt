@@ -1,0 +1,20 @@
+Number of projects Cancelled :  1
+Number of projects Active :  3
+
+Number of projects Completed :  2
+Project ID :   ProIJK
+No of Tasks :  1
+Start Date :   03/14/2020
+Completed Date :   04/14/2020
+No of Staff :  0
+No of Contract Employees :  0
+List of Employees : []
+
+Project ID :   ProjPQR
+No of Tasks :  4
+Start Date :   02/20/2020
+Completed Date :   04/20/2020
+No of Staff :  2
+No of Contract Employees :  2
+List of Employees : [ Mary Jones,  Tory Jones]
+
